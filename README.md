@@ -6,6 +6,6 @@ right click on the first file</p> <p>
 select Extract All...</p> <p>
 after it unzips, right click the other file</p> <p>
 select Extract All...</p> <p>
-find the "Brawl for the Star.exe" file and open it |
+find the "Brawl for the Star.exe" file and open it </p> <p>
 movement controls for the right player are different:
-IJKL (WASD)</p>
+IJKL (like WASD)</p>
